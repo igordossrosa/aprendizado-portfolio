@@ -8,6 +8,14 @@ Projeto desenvolvido seguindo os cursos de HTML e CSS da Alura, apenas para apre
   <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
+### QR Code e Imagens:
+  Leia o QRCode para ir direto ao site:
+<div>
+   <img height="200px" src="assets/QRCode.png"/>
+</div>
+  Imagens do Projeto:
+  
+
 ### Contato:
 <div>
 Email: igordsrosaa@outlook.com<br>
