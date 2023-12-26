@@ -17,8 +17,8 @@ Projeto desenvolvido seguindo os cursos de HTML e CSS da Alura, apenas para apre
 
   Imagens do Projeto:
   <div>
-    <img height="300px" src="assets/Home.png"/>
-    <img height="300px" src="assets/Sobre-mim.png"/>
+    <img height="400px" src="assets/Home.png"/>
+    <img height="400px" src="assets/Sobre-mim.png"/>
   </div>
   
 ### Contato:
