@@ -1,6 +1,7 @@
 ## Projeto de portfolio simples
 ### Sobre:
 Projeto desenvolvido seguindo os cursos de HTML e CSS da Alura, apenas para aprendizado, usando conceitos básicos.
+Foram usados conceitos de responsividade básicos com CSS e principalmente o uso de flexbox no posicionamento dos elementos.
 
 ### Linguagens usadas:
 <div style="display: inline_block">
