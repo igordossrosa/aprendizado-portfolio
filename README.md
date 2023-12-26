@@ -9,13 +9,18 @@ Projeto desenvolvido seguindo os cursos de HTML e CSS da Alura, apenas para apre
 </div>
 
 ### QR Code e Imagens:
+
   Leia o QRCode para ir direto ao site:
 <div>
    <img height="200px" src="assets/QRCode.png"/>
-</div>
-  Imagens do Projeto:
-  
+</div><br>
 
+  Imagens do Projeto:
+  <div>
+    <img height="300px" src="assets/Home.png"/>
+    <img height="300px" src="assets/Sobre-mim.png"/>
+  </div>
+  
 ### Contato:
 <div>
 Email: igordsrosaa@outlook.com<br>
